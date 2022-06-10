@@ -28,3 +28,5 @@ Box(is_relative=False, left=657.0, top=456.0, right=831.0, bottom=488.0)
 77 JJ  5837
 Box(is_relative=False, left=748.0, top=147.0, right=894.0, bottom=212.0)
 [Corner(x=200.0, y=748.0), Corner(x=147.0, y=751.0), Corner(x=148.0, y=894.0), Corner(x=212.0, y=890.0)]
+
+License: (FFTDW) Feel free to do whatever you want with this repo.
