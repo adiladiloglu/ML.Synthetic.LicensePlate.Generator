@@ -1,0 +1,2276 @@
+{
+    "Country": "Turkiye",
+    "Templates": [
+     {
+      "Size": {
+       "Height": 1100,
+       "Width": 5200
+      },
+      "Sticker": {
+       "Files": [
+        "Assets/Images/Sticker1.png",
+        "Assets/Images/Sticker2.png",
+        "Assets/Images/Sticker3.png",
+        "Assets/Images/Sticker4.png",
+        "Assets/Images/Sticker5.png"
+       ],
+       "PlacementTargets": [
+        {
+         "X": 60,
+         "Y": 60,
+         "Height": 490,
+         "Width": 4980
+        }
+       ],
+       "Probability": 0.5
+      },
+      "Totalchars": 8,
+      "Border": 60,
+      "BorderColor": {
+       "R": 0,
+       "G": 0,
+       "B": 0
+      },
+      "BackgroundColor": {
+       "R": 255,
+       "G": 255,
+       "B": 255
+      },
+      "ForegroundColor": {
+       "R": 0,
+       "G": 0,
+       "B": 0
+      },
+      "Fonts": [
+       {
+        "Size": 900,
+        "File": "Assets/Fonts/DINOT-Bold.ttf"
+       },
+       {
+        "Size": 900,
+        "File": "Assets/Fonts/DINOT-Medium.ttf"
+       }
+      ],
+      "Lines": [
+       {
+        "Area": {
+         "X": 60,
+         "Y": 60,
+         "Height": 980,
+         "Width": 4980
+        },
+        "Drawables": [
+         {
+          "Type": "Seal",
+          "Parts": [
+           {
+            "Probability": 0.5,
+            "Options": [
+             "Assets/Images/Band.png"
+            ]
+           }
+          ]
+         },
+         {
+          "Offset": 100,
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "I",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "O",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Size": {
+       "Height": 2100,
+       "Width": 3200
+      },
+      "Sticker": {
+       "Files": [
+        "Assets/Images/Sticker1.png",
+        "Assets/Images/Sticker2.png",
+        "Assets/Images/Sticker3.png",
+        "Assets/Images/Sticker4.png",
+        "Assets/Images/Sticker5.png"
+       ],
+       "PlacementTargets": [
+        {
+         "X": 270,
+         "Y": 60,
+         "Height": 495,
+         "Width": 2660
+        },
+        {
+         "X": 60,
+         "Y": 1050,
+         "Height": 495,
+         "Width": 2870
+        }
+       ],
+       "Probability": 0.5
+      },
+      "Totalchars": 8,
+      "Border": 60,
+      "BorderColor": {
+       "R": 0,
+       "G": 0,
+       "B": 0
+      },
+      "BackgroundColor": {
+       "R": 255,
+       "G": 255,
+       "B": 255
+      },
+      "ForegroundColor": {
+       "R": 0,
+       "G": 0,
+       "B": 0
+      },
+      "Fonts": [
+       {
+        "Size": 900,
+        "File": "Assets/Fonts/DINOT-Bold.ttf"
+       },
+       {
+        "Size": 900,
+        "File": "Assets/Fonts/DINOT-Medium.ttf"
+       }
+      ],
+      "Lines": [
+       {
+        "Area": {
+         "X": 160,
+         "Y": 60,
+         "Height": 990,
+         "Width": 2880
+        },
+        "Drawables": [
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           },
+           {
+            "Probability": 0.75,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "I",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "O",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "Area": {
+         "X": 60,
+         "Y": 1060,
+         "Height": 990,
+         "Width": 3080
+        },
+        "Drawables": [
+         {
+          "Type": "Seal",
+          "Parts": [
+           {
+            "Probability": 0.5,
+            "Options": [
+             "Assets/Images/Band.png"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Size": {
+       "Height": 1500,
+       "Width": 3000
+      },
+      "Sticker": {
+       "Files": [
+        "Assets/Images/Sticker1.png",
+        "Assets/Images/Sticker2.png",
+        "Assets/Images/Sticker3.png",
+        "Assets/Images/Sticker4.png",
+        "Assets/Images/Sticker5.png"
+       ],
+       "PlacementTargets": [
+        {
+         "X": 270,
+         "Y": 60,
+         "Height": 495,
+         "Width": 2660
+        },
+        {
+         "X": 60,
+         "Y": 1050,
+         "Height": 495,
+         "Width": 2870
+        }
+       ],
+       "Probability": 0.5
+      },
+      "Totalchars": 8,
+      "Border": 50,
+      "BorderColor": {
+       "R": 0,
+       "G": 0,
+       "B": 0
+      },
+      "BackgroundColor": {
+       "R": 255,
+       "G": 255,
+       "B": 255
+      },
+      "ForegroundColor": {
+       "R": 0,
+       "G": 0,
+       "B": 0
+      },
+      "Fonts": [
+       {
+        "Size": 700,
+        "File": "Assets/Fonts/DINOT-Bold.ttf"
+       },
+       {
+        "Size": 700,
+        "File": "Assets/Fonts/DINOT-Medium.ttf"
+       }
+      ],
+      "Lines": [
+       {
+        "Area": {
+         "X": 150,
+         "Y": 50,
+         "Height": 700,
+         "Width": 2700
+        },
+        "Drawables": [
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           },
+           {
+            "Probability": 0.75,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "I",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "O",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "Area": {
+         "X": 50,
+         "Y": 750,
+         "Height": 700,
+         "Width": 2900
+        },
+        "Drawables": [
+         {
+          "Type": "Seal",
+          "Parts": [
+           {
+            "Probability": 0.5,
+            "Options": [
+             "Assets/Images/Band2.png"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Size": {
+       "Height": 1100,
+       "Width": 5200
+      },
+      "Sticker": {
+       "Files": [
+        "Assets/Images/Sticker1.png",
+        "Assets/Images/Sticker2.png",
+        "Assets/Images/Sticker3.png",
+        "Assets/Images/Sticker4.png",
+        "Assets/Images/Sticker5.png"
+       ],
+       "PlacementTargets": [
+        {
+         "X": 60,
+         "Y": 60,
+         "Height": 490,
+         "Width": 4980
+        }
+       ],
+       "Probability": 0.5
+      },
+      "Totalchars": 8,
+      "Border": 60,
+      "BorderColor": {
+       "R": 255,
+       "G": 255,
+       "B": 255
+      },
+      "BackgroundColor": {
+       "R": 0,
+       "G": 0,
+       "B": 0
+      },
+      "ForegroundColor": {
+       "R": 255,
+       "G": 255,
+       "B": 255
+      },
+      "Fonts": [
+       {
+        "Size": 900,
+        "File": "Assets/Fonts/DINOT-Bold.ttf"
+       },
+       {
+        "Size": 900,
+        "File": "Assets/Fonts/DINOT-Medium.ttf"
+       }
+      ],
+      "Lines": [
+       {
+        "Area": {
+         "X": 60,
+         "Y": 60,
+         "Height": 980,
+         "Width": 4980
+        },
+        "Drawables": [
+         {
+          "Type": "Seal",
+          "Parts": [
+           {
+            "Probability": 0.5,
+            "Options": [
+             "Assets/Images/Band.png"
+            ]
+           }
+          ]
+         },
+         {
+          "Offset": 100,
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "I",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "O",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Size": {
+       "Height": 2100,
+       "Width": 3200
+      },
+      "Sticker": {
+       "Files": [
+        "Assets/Images/Sticker1.png",
+        "Assets/Images/Sticker2.png",
+        "Assets/Images/Sticker3.png",
+        "Assets/Images/Sticker4.png",
+        "Assets/Images/Sticker5.png"
+       ],
+       "PlacementTargets": [
+        {
+         "X": 270,
+         "Y": 60,
+         "Height": 495,
+         "Width": 2660
+        },
+        {
+         "X": 60,
+         "Y": 1050,
+         "Height": 495,
+         "Width": 2870
+        }
+       ],
+       "Probability": 0.5
+      },
+      "Totalchars": 8,
+      "Border": 60,
+      "BorderColor": {
+       "R": 255,
+       "G": 255,
+       "B": 255
+      },
+      "BackgroundColor": {
+       "R": 0,
+       "G": 0,
+       "B": 0
+      },
+      "ForegroundColor": {
+       "R": 255,
+       "G": 255,
+       "B": 255
+      },
+      "Fonts": [
+       {
+        "Size": 900,
+        "File": "Assets/Fonts/DINOT-Bold.ttf"
+       },
+       {
+        "Size": 900,
+        "File": "Assets/Fonts/DINOT-Medium.ttf"
+       }
+      ],
+      "Lines": [
+       {
+        "Area": {
+         "X": 160,
+         "Y": 60,
+         "Height": 990,
+         "Width": 2880
+        },
+        "Drawables": [
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           },
+           {
+            "Probability": 0.75,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "I",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "O",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "Area": {
+         "X": 60,
+         "Y": 1060,
+         "Height": 990,
+         "Width": 3080
+        },
+        "Drawables": [
+         {
+          "Type": "Seal",
+          "Parts": [
+           {
+            "Probability": 0.5,
+            "Options": [
+             "Assets/Images/Band.png"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Size": {
+       "Height": 1500,
+       "Width": 3000
+      },
+      "Sticker": {
+       "Files": [
+        "Assets/Images/Sticker1.png",
+        "Assets/Images/Sticker2.png",
+        "Assets/Images/Sticker3.png",
+        "Assets/Images/Sticker4.png",
+        "Assets/Images/Sticker5.png"
+       ],
+       "PlacementTargets": [
+        {
+         "X": 270,
+         "Y": 60,
+         "Height": 495,
+         "Width": 2660
+        },
+        {
+         "X": 60,
+         "Y": 1050,
+         "Height": 495,
+         "Width": 2870
+        }
+       ],
+       "Probability": 0.5
+      },
+      "Totalchars": 8,
+      "Border": 50,
+      "BorderColor": {
+       "R": 255,
+       "G": 255,
+       "B": 255
+      },
+      "BackgroundColor": {
+       "R": 0,
+       "G": 0,
+       "B": 0
+      },
+      "ForegroundColor": {
+       "R": 255,
+       "G": 255,
+       "B": 255
+      },
+      "Fonts": [
+       {
+        "Size": 700,
+        "File": "Assets/Fonts/DINOT-Bold.ttf"
+       },
+       {
+        "Size": 700,
+        "File": "Assets/Fonts/DINOT-Medium.ttf"
+       }
+      ],
+      "Lines": [
+       {
+        "Area": {
+         "X": 150,
+         "Y": 50,
+         "Height": 700,
+         "Width": 2700
+        },
+        "Drawables": [
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           },
+           {
+            "Probability": 0.75,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "I",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "O",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "A",
+             "B",
+             "C",
+             "D",
+             "E",
+             "F",
+             "G",
+             "H",
+             "J",
+             "K",
+             "L",
+             "M",
+             "N",
+             "P",
+             "R",
+             "S",
+             "T",
+             "U",
+             "V",
+             "Y",
+             "Z"
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "Area": {
+         "X": 50,
+         "Y": 750,
+         "Height": 700,
+         "Width": 2900
+        },
+        "Drawables": [
+         {
+          "Type": "Seal",
+          "Parts": [
+           {
+            "Probability": 0.5,
+            "Options": [
+             "Assets/Images/Band2.png"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Size": {
+       "Height": 1100,
+       "Width": 5200
+      },
+      "Totalchars": 8,
+      "Border": 60,
+      "BorderColor": {
+       "R": 2255,
+       "G": 255,
+       "B": 255
+      },
+      "BackgroundColor": {
+       "R": 0,
+       "G": 0,
+       "B": 255
+      },
+      "ForegroundColor": {
+       "R": 255,
+       "G": 255,
+       "B": 255
+      },
+      "Fonts": [
+       {
+        "Size": 900,
+        "File": "Assets/Fonts/DINOT-Bold.ttf"
+       },
+       {
+        "Size": 900,
+        "File": "Assets/Fonts/DINOT-Medium.ttf"
+       }
+      ],
+      "Lines": [
+       {
+        "Area": {
+         "X": 60,
+         "Y": 60,
+         "Height": 980,
+         "Width": 4980
+        },
+        "Drawables": [
+         {
+          "Offset": 100,
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "A"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "A"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "A"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Size": {
+       "Height": 2100,
+       "Width": 3200
+      },
+      "Totalchars": 8,
+      "Border": 60,
+      "BorderColor": {
+       "R": 255,
+       "G": 255,
+       "B": 255
+      },
+      "BackgroundColor": {
+       "R": 0,
+       "G": 0,
+       "B": 255
+      },
+      "ForegroundColor": {
+       "R": 255,
+       "G": 255,
+       "B": 255
+      },
+      "Fonts": [
+       {
+        "Size": 900,
+        "File": "Assets/Fonts/DINOT-Bold.ttf"
+       },
+       {
+        "Size": 900,
+        "File": "Assets/Fonts/DINOT-Medium.ttf"
+       }
+      ],
+      "Lines": [
+       {
+        "Area": {
+         "X": 160,
+         "Y": 60,
+         "Height": 990,
+         "Width": 2880
+        },
+        "Drawables": [
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "A"
+            ]
+           },
+           {
+            "Probability": 0.75,
+            "Options": [
+             "A"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "A"
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "Area": {
+         "X": 60,
+         "Y": 1060,
+         "Height": 990,
+         "Width": 3080
+        },
+        "Drawables": [
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Size": {
+       "Height": 1500,
+       "Width": 3000
+      },
+      "Totalchars": 8,
+      "Border": 50,
+      "BorderColor": {
+       "R": 255,
+       "G": 255,
+       "B": 255
+      },
+      "BackgroundColor": {
+       "R": 0,
+       "G": 0,
+       "B": 255
+      },
+      "ForegroundColor": {
+       "R": 255,
+       "G": 255,
+       "B": 255
+      },
+      "Fonts": [
+       {
+        "Size": 700,
+        "File": "Assets/Fonts/DINOT-Bold.ttf"
+       },
+       {
+        "Size": 700,
+        "File": "Assets/Fonts/DINOT-Medium.ttf"
+       }
+      ],
+      "Lines": [
+       {
+        "Area": {
+         "X": 150,
+         "Y": 50,
+         "Height": 700,
+         "Width": 2700
+        },
+        "Drawables": [
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         },
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "A"
+            ]
+           },
+           {
+            "Probability": 0.75,
+            "Options": [
+             "A"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "A"
+            ]
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "Area": {
+         "X": 50,
+         "Y": 750,
+         "Height": 700,
+         "Width": 2900
+        },
+        "Drawables": [
+         {
+          "Type": "Text",
+          "Parts": [
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 1,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           },
+           {
+            "Probability": 0.5,
+            "Options": [
+             "0",
+             "1",
+             "2",
+             "3",
+             "4",
+             "5",
+             "6",
+             "7",
+             "8",
+             "9"
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
