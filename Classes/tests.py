@@ -10,7 +10,7 @@ def time_convert(sec):
 
 configuration_file = "Configuration\Countries\TR\config.json"
 config = ConfigurationData(configuration_file)
-lpc = dsc.Creator([config.data],"D:\ArGe\Machine Learning\Datasets\Synthetic\LicensePlate\BaseImages", seperateTrainTestVal=False,destinationFolder="Dataset")
+lpc = dsc.Creator([config.data],"BaseImages", seperateTrainTestVal=False,destinationFolder="Dataset")
 start_time = time.time()
 lpc.create(10)
 end_time  = time.time()
