@@ -3,12 +3,9 @@ Synthetic License Plate generator for ML Model Training
 
 The generator supports custom license plate generation. Which means, given the country spesific configuration file and other assets,
 this generator can generate a modestly realistic license plate image. 
-And place the generated license plate on a given background. (Ocation of the license plates on the bacground can be limited)
+And place the generated license plate on a given background. 
 
 Also the generator gives the label details for the generated license plate.
-
-PS. Please be aware, I am no python developer, this was my first attempt to write code in python.
-Also this project is far from finished, polished and being served. 
 
 ![Output with borders and labels around generated and placed license plates](output.png)
 Output with borders and labels around the generated and placed license plates
@@ -29,4 +26,4 @@ Box(is_relative=False, left=657.0, top=456.0, right=831.0, bottom=488.0)
 Box(is_relative=False, left=748.0, top=147.0, right=894.0, bottom=212.0)
 [Corner(x=200.0, y=748.0), Corner(x=147.0, y=751.0), Corner(x=148.0, y=894.0), Corner(x=212.0, y=890.0)]
 
-License: (FFTDW) Feel free to do whatever you want with this repo.
+
